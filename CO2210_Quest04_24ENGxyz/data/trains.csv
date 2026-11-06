@@ -1,0 +1,19 @@
+trainNo,name,routeCode,direction,departure,arrival,carriages,stops
+1015,Podi Menike,CK,OUT,05:55,09:20,FIRST:24;FIRST:24;SECOND:48;SECOND:48;THIRD:60;THIRD:60;THIRD:60,Ragama@06:14;Gampaha@06:23;Veyangoda@06:42;Polgahawela@08:05;Rambukkana@08:20;Peradeniya Junction@09:00
+1005,Udarata Menike,CK,OUT,08:30,11:55,FIRST:18;SECOND:44;SECOND:44;THIRD:55;THIRD:55,Ragama@08:49;Veyangoda@09:17;Polgahawela@10:40;Peradeniya Junction@11:35
+1009,Intercity Express,CK,OUT,15:35,19:00,SECOND:40;SECOND:40;SECOND:40;THIRD:60;THIRD:60,Gampaha@16:03;Polgahawela@17:45;Rambukkana@18:00;Peradeniya Junction@18:40
+1002,Podi Menike (Return),CK,IN,06:15,09:40,FIRST:24;FIRST:24;SECOND:48;SECOND:48;THIRD:60;THIRD:60;THIRD:60,Peradeniya Junction@06:35;Rambukkana@07:15;Polgahawela@07:30;Veyangoda@08:53;Gampaha@09:12;Ragama@09:21
+1006,Udarata Menike (Return),CK,IN,10:10,13:35,FIRST:18;FIRST:18;SECOND:44;SECOND:44;THIRD:55;THIRD:55,Peradeniya Junction@10:30;Polgahawela@11:25;Veyangoda@12:48;Ragama@13:16
+1010,Intercity Express (Return),CK,IN,16:45,20:10,SECOND:40;SECOND:40;THIRD:60;THIRD:60,Peradeniya Junction@17:05;Rambukkana@17:45;Polgahawela@18:00;Gampaha@19:42
+8056,Galle Express,CG,OUT,07:05,09:40,FIRST:18;SECOND:40;SECOND:40;THIRD:50;THIRD:50,Panadura@07:43;Kalutara South@08:00;Bentota@08:35;Hikkaduwa@09:00
+8058,Ruhunu Kumari,CG,OUT,12:50,15:25,FIRST:24;SECOND:48;SECOND:48;THIRD:60,Mount Lavinia@13:10;Panadura@13:28;Bentota@14:20;Hikkaduwa@14:45
+8060,Sagarika,CG,OUT,17:05,19:40,SECOND:40;SECOND:40;THIRD:55;THIRD:55;THIRD:55,Panadura@17:43;Kalutara South@18:00;Hikkaduwa@19:00
+8057,Galle Express (Return),CG,IN,05:40,08:15,FIRST:18;SECOND:40;SECOND:40;THIRD:50;THIRD:50,Hikkaduwa@06:20;Bentota@06:45;Kalutara South@07:20;Panadura@07:37
+8059,Ruhunu Kumari (Return),CG,IN,10:20,12:55,FIRST:24;FIRST:24;SECOND:48;SECOND:48;THIRD:60,Hikkaduwa@11:00;Bentota@11:25;Panadura@12:17;Mount Lavinia@12:35
+8061,Sagarika (Return),CG,IN,15:00,17:35,SECOND:40;SECOND:40;THIRD:55;THIRD:55,Hikkaduwa@15:40;Kalutara South@16:40;Panadura@16:57
+4077,Yal Devi,CJ,OUT,05:45,12:55,FIRST:24;FIRST:24;FIRST:24;SECOND:48;SECOND:48;SECOND:48;THIRD:60;THIRD:60;THIRD:60;THIRD:60,Ragama@06:04;Veyangoda@06:32;Polgahawela@07:55;Anuradhapura@09:55;Vavuniya@10:55;Kilinochchi@12:00;Jaffna@12:30
+4023,Uttara Devi,CJ,OUT,09:45,16:55,FIRST:24;FIRST:24;SECOND:44;SECOND:44;SECOND:44;THIRD:55;THIRD:55;THIRD:55,Veyangoda@10:32;Polgahawela@11:55;Anuradhapura@13:55;Vavuniya@14:55;Jaffna@16:30
+4025,Jaffna Queen,CJ,OUT,15:30,22:40,FIRST:18;SECOND:40;SECOND:40;THIRD:50;THIRD:50;THIRD:50,Polgahawela@17:40;Anuradhapura@19:40;Vavuniya@20:40;Kilinochchi@21:45;Jaffna@22:15
+4078,Yal Devi (Return),CJ,IN,05:30,12:40,FIRST:24;FIRST:24;SECOND:48;SECOND:48;SECOND:48;THIRD:60;THIRD:60;THIRD:60;THIRD:60,Jaffna@05:55;Kilinochchi@06:25;Vavuniya@07:30;Anuradhapura@08:30;Polgahawela@10:30;Veyangoda@11:53;Ragama@12:21
+4024,Uttara Devi (Return),CJ,IN,09:30,16:40,FIRST:24;SECOND:44;SECOND:44;THIRD:55;THIRD:55;THIRD:55;THIRD:55,Jaffna@09:55;Vavuniya@11:30;Anuradhapura@12:30;Polgahawela@14:30;Veyangoda@15:53
+4026,Jaffna Queen (Return),CJ,IN,15:15,22:25,FIRST:18;FIRST:18;SECOND:40;SECOND:40;THIRD:50;THIRD:50,Jaffna@15:40;Kilinochchi@16:10;Vavuniya@17:15;Anuradhapura@18:15;Polgahawela@20:15
